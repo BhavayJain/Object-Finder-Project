@@ -1,0 +1,16 @@
+body{
+    background-size: cover;
+}
+
+#label1{
+    color: blue;
+}
+
+#object_heading{
+    color:yellowgreen
+}
+
+canvas{
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px grey;
+}
